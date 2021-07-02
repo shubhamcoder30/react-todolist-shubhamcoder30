@@ -1,0 +1,25 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #232324e0;
+}
+h1, p {
+  font-family: Lato;
+}
+
+/* Include the padding and border in an element's total width and height */
+* {
+  box-sizing: border-box;
+}
+.text{
+  color: white ;
+}
+/* Style the header */
+.header {
+
+  padding: 30px 40px;
+  color: rgb(104, 102, 102);
+  text-align: center;
+}
+
